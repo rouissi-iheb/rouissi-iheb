@@ -3,8 +3,10 @@
 <!--
 **rouissi-iheb/rouissi-iheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Profile Views [![HitCount](http://hits.dwyl.com/rouissi-iheb/rouissi-iheb.svg)](http://hits.dwyl.com/rouissi-iheb/rouissi-iheb)
+<center>
+My Profile Views :
+ <img src="http://profile-counter.glitch.me/rouissi-iheb/count.svg" />
+</center>
 
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=rouissi-iheb&show_icons=true&theme=dark  )](https://github.com/rouissi-iheb)
 
