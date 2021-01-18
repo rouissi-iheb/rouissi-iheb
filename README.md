@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own PHP Framework 
 - 🌱 I’m currently learning Vue JS
-- 🤔 I’m looking for help with javascript
 - 💬 Ask me about PHP 
-- 📫 How to reach me: fb:rouissi.iheb.96 / mail: rouissi2017@gmail.com
 - ⚡ Fun fact: i hate javascript ! 
 
