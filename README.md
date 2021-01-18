@@ -19,7 +19,6 @@
 My Profile Views :
  <img src="http://profile-counter.glitch.me/rouissi-iheb/count.svg" />
 
-<br />
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=rouissi-iheb&show_icons=true&theme=dark  )](https://github.com/rouissi-iheb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouissi-iheb&layout=compact&show_icons=true&theme=dark&hide=html,css )](https://github.com/anuraghazra/github-readme-stats)
