@@ -17,7 +17,7 @@
 <br />
 
 My Profile Views :
- <img src="http://profile-counter.glitch.me/rouissi-iheb/count.svg" />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=rouissi-iheb" />
 
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=rouissi-iheb&show_icons=true&theme=dark  )](https://github.com/rouissi-iheb)
 
