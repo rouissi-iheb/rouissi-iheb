@@ -16,7 +16,7 @@
 
 <br />
 
-My Profile Views :
+![GitHub followers](https://img.shields.io/github/followers/rouissi-iheb?label=Follow&style=social)
  <img src="https://visitor-badge.laobi.icu/badge?page_id=rouissi-iheb" />
 
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=rouissi-iheb&show_icons=true&theme=dark  )](https://github.com/rouissi-iheb)
