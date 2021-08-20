@@ -27,11 +27,3 @@ Contact me here : <br>
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=rouissi-iheb&show_icons=true&theme=dark  )](https://github.com/rouissi-iheb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouissi-iheb&layout=compact&show_icons=true&theme=dark&hide=html,css )](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my final year project 
-- 🌱 I’m currently learning MERN stack
-- 💬 Ask me about PHP 
-- ⚡ Fun fact: i hate JS ! 
-
